@@ -1,7 +1,5 @@
 # Data analyst
 
-## Описание:
-В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум).
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
@@ -14,7 +12,7 @@
 - Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
-![-](https://github.com/ovalentinka/Data_analyst/blob/be6663a961ed1bd26a89ce2832cc5e280c711f56/diplom.PNG)
+![-](https://github.com/AleksandrKurylev/Examples-of-my-projects/blob/main/Diploma.pdf)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  

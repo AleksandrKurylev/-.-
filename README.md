@@ -12,7 +12,7 @@
 - Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
-![-](https://github.com/AleksandrKurylev/Examples-of-my-projects/blob/main/Diploma.pdf)
+![-](https://github.com/AleksandrKurylev/Examples-of-my-projects/blob/main/Diploma.jpg)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  

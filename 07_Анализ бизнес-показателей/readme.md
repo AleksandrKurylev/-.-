@@ -24,3 +24,6 @@
 Среда разработки - `Jupyter Notebook`; <br>
 Язык программирования - `Python`; <br>
 Библиотеки - `Pandas`, `Matplotlib`, `NumPy`, `Seaborn`, `Datetime`, `Plotly.express`. <br>
+***
+***
+## Статус проекта:  **ЗАВЕРШЕН** 

@@ -10,3 +10,7 @@
 Среда разработки - `Jupyter Notebook`; <br>
 Язык программирования - `Python`; <br>
 Библиотеки - `Pandas`, `NumPy`, `SciPy`, `Scipy.stats`, `Seaborn`, `Plotly`, `Plotly.express`, `Plotly.graph_objects`. <br>
+
+***
+***
+## Статус проекта:  **ЗАВЕРШЕН** 
